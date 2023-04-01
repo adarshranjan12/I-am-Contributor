@@ -402,7 +402,7 @@ const ContributorData = [
     id: 35,
     img: boy,
     name :"Adarsh Ranjan",
-    skill1: "C++",
+    skill1: "Python",
     skill2: "Cyber Security",
     skill3: "HTML5",
     skill4: "CSS3",
